@@ -5,7 +5,7 @@
 ### Git nedir?
         Bir versiyon kontrol sistemidir.. peki..
 
-###Versiyon Kontrol Sistemi Nedir?
+### Versiyon Kontrol Sistemi Nedir?
 
         Bir döküman (yazılım projesi, ofis belgesi vb.) üzerinde yaptığınız değişiklikleri adım adım izleyen, istediğinizde kayıt eden ve isterseniz bunu internet üzerindeki bir bilgisayarda veya yerel bir cihazda (repository / repo / depo) saklamanızı ve yönetmenizi sağlayan bir sistemdir.
 ### Git init nedir ?
